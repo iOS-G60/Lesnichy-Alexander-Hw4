@@ -12,6 +12,7 @@
 		099EDD90201FBD8000782188 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 099EDD8E201FBD8000782188 /* Main.storyboard */; };
 		099EDD92201FBD8000782188 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 099EDD91201FBD8000782188 /* Assets.xcassets */; };
 		099EDD95201FBD8000782188 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 099EDD93201FBD8000782188 /* LaunchScreen.storyboard */; };
+		099EDD9D201FBF7C00782188 /* Motocycle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 099EDD9C201FBF7C00782188 /* Motocycle.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		099EDD91201FBD8000782188 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		099EDD94201FBD8000782188 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		099EDD96201FBD8000782188 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		099EDD9C201FBF7C00782188 /* Motocycle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Motocycle.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				099EDD8A201FBD8000782188 /* AppDelegate.swift */,
 				099EDD8C201FBD8000782188 /* ViewController.swift */,
 				099EDD8E201FBD8000782188 /* Main.storyboard */,
+				099EDD9C201FBF7C00782188 /* Motocycle.swift */,
 				099EDD91201FBD8000782188 /* Assets.xcassets */,
 				099EDD93201FBD8000782188 /* LaunchScreen.storyboard */,
 				099EDD96201FBD8000782188 /* Info.plist */,
@@ -137,6 +140,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				099EDD8D201FBD8000782188 /* ViewController.swift in Sources */,
+				099EDD9D201FBF7C00782188 /* Motocycle.swift in Sources */,
 				099EDD8B201FBD8000782188 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
